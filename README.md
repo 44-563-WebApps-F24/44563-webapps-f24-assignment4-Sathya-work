@@ -3,4 +3,4 @@
 A practice assignment for HTML with CSS
 
 Hosted at 
-https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment4-Sathya-work/
+https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment4-Sathya-work/greekplay.html
